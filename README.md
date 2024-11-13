@@ -2,7 +2,7 @@
 
 Query a Snowflake database containing data on journeys and transport types in London between 2010 and 2022 to find the most and least popular transport methods. 
 
-The database 'TFL' contains a single table called JOURNEYS, including the following data:
+The database TFL contains a single table called JOURNEYS, including the following data:
 
 | Column | Definition | Data type |
 |--------|------------|-----------|
